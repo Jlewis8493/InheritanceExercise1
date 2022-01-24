@@ -1,0 +1,13 @@
+/Users/jared/InheritanceExercise/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.deps.json
+/Users/jared/InheritanceExercise/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.runtimeconfig.json
+/Users/jared/InheritanceExercise/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.runtimeconfig.dev.json
+/Users/jared/InheritanceExercise/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.dll
+/Users/jared/InheritanceExercise/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.pdb
+/Users/jared/InheritanceExercise/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.csproj.AssemblyReference.cache
+/Users/jared/InheritanceExercise/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jared/InheritanceExercise/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.AssemblyInfoInputs.cache
+/Users/jared/InheritanceExercise/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.AssemblyInfo.cs
+/Users/jared/InheritanceExercise/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.csproj.CoreCompileInputs.cache
+/Users/jared/InheritanceExercise/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.dll
+/Users/jared/InheritanceExercise/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.pdb
+/Users/jared/InheritanceExercise/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.genruntimeconfig.cache
